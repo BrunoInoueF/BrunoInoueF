@@ -5,7 +5,6 @@
 - 💻 Aprendendo ferramentas para análise de dados 
 - 🎓 Formado em ensino técnico de TI e administração
 - 📖 Finalizando pós-graduação em gestão estratégica
-- 📊 Estudando MBA em ciência de dados
 - 🐍 Colaboro em projetos especialmente nas linguagens Python e R
 - 🏯 Morei por um tempo em duas regiões e três províncias no Japão
 
