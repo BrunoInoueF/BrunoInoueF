@@ -23,9 +23,18 @@
   <img align="center" alt="Bruno-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Bruno-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Bruno-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+
+  
   <img align="center" alt="Bruno-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+
+ <img align="center" alt="Bruno-Jupyter" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/800px-Jupyter_logo.svg.png">
+
+  
   <img align="center" alt="Bruno-R" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/1200px-R_logo.svg.png">
 </div>
+
+  <img align="center" alt="Bruno-Python" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/d/d0/RStudio_logo_flat.svg">
+
   
   ##
  
