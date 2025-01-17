@@ -32,9 +32,6 @@
   
   <img align="center" alt="Bruno-R" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/1200px-R_logo.svg.png">
 </div>
-
-  <img align="center" alt="Bruno-Python" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/d/d0/RStudio_logo_flat.svg">
-
   
   ##
  
