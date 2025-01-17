@@ -1,12 +1,12 @@
 ## おす! Welcome! Eu sou o Bruno 👋
 
 - 👷 Trabalho com administração de marketing e leciono aulas particulares de inglês e japonês
-- 💨 Aplico metodologias ágeis para melhorias de processos e planejamento de projetos
-- 📖 Aprendendo ferramentas para análise de dados e linguagens de programação
-- 🎓 Formado em especialização e bacharel em administração e técnico de informática
-- 💻 Pós-graduando em curso de ciência de dados e em curso de paradigmas e linguagens com foco em Python, JavaScript e Java 
-- 🐍 Colaboro em projetos, especialmente envolvendo Machine Learning na linguagem Python e R
-- 🏯 Morei por um tempo em duas regiões e três províncias no Japão
+- 💨 Aplico metodologias ágeis para melhorias de processos e desenvolvimento de projetos
+- 📖 Aprendendo ferramentas para análise e modelagem de dados e linguagens de programação
+- 🎓 Formado em administração (bacharel e especialização) e técnico de informática para Internet
+- 💻 Pós-graduando curso de ciência de dados e curso de linguagens com foco em JS, Python e Java
+- 🐍 Colaboro em projetos, especialmente envolvendo Machine Learning na linguagem Python
+- 🏯 Morei, trabalhei e estudei por um tempo em duas regiões e três províncias no Japão 
 
 <div style="display: inline_block"><br>
   
