@@ -13,8 +13,6 @@
   <img align="center" alt="Bruno-Google_Sheets" height="35" width="28" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Google_Sheets_2020_Logo.svg/1489px-Google_Sheets_2020_Logo.svg.png">
   
  <img align="center" alt="Bruno-Excel" height="32" width="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg/1200px-Microsoft_Office_Excel_%282019%E2%80%93present%29.svg.png">
- 
-  <img align="center" alt="Bruno-SeniorSistemas" height="32" width="32" src="https://yt3.googleusercontent.com/GAFWmL0ieiW0xkMLJX55OAMcenvBfK2SwTGmAn0Q0Xs40LwckTE2bieQ1d1gesxM_9gogxgd=s900-c-k-c0x00ffffff-no-rj">
 
  <img align="center" alt="Bruno-Google_Sites" height="35" width="28" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Google_Sites_2020_Logo.svg/1200px-Google_Sites_2020_Logo.svg.png">
 
