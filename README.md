@@ -2,7 +2,7 @@
 
 - 👷 Trabalho com administração de marketing e leciono aulas particulares de inglês e japonês
 - 💨 Aplico metodologias ágeis para melhorias de processos e desenvolvimento de projetos
-- 📖 Aprendendo ferramentas para análise e modelagem de dados e linguagens de programação
+- 📖 Aprendendo ferramentas para análise de dados e linguagens de programação
 - 🎓 Formado em administração (bacharel e especialização) e técnico de informática para Internet
 - 💻 Pós-graduando curso de ciência de dados e curso de linguagens com foco em JS, Python e Java
 - 🐍 Colaboro em projetos, especialmente envolvendo Machine Learning na linguagem Python
