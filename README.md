@@ -6,7 +6,7 @@
 - 🎓 Formado em administração (bacharel e especialização) e técnico de informática para Internet
 - 💻 Pós-graduando 3 cursos: ciência de dados, programação e MBA da USP em Data Science e Analytics
 - 🐍 Colaboro em projetos, especialmente envolvendo Machine Learning na linguagem Python
-- 🎌 Morei, trabalhei e estudei por um tempo em duas regiões e três províncias no Japão 
+- 🎌 Morei, trabalhei e estudei em duas regiões e três províncias no Japão
 
 <div style="display: inline_block"><br>
 
