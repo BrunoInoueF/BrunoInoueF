@@ -4,7 +4,8 @@
 - 💨 Aplico metodologias ágeis para melhorias de processos e desenvolvimento de projetos
 - 📖 Aprendendo ferramentas para análise de dados e linguagens de programação
 - 🎓 Formado em administração (bacharel e especialização) e técnico de informática para Internet
-- 💻 Pós-graduando 3 cursos: ciência de dados, programação e MBA da USP em Data Science e Analytics
+- 📈 Especialista em Gestão Estratégica & Ciência de Dados
+- 📊 Pós-graduando em Linguagens e Paradigmas de Programação e o MBA em Data Science e Analytics da USP
 - 🐍 Colaboro em projetos, especialmente envolvendo Machine Learning na linguagem Python
 - 🎌 Morei, trabalhei e estudei em duas regiões e três províncias no Japão
 
